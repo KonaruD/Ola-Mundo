@@ -4,4 +4,6 @@ Testando o Commit.
 
 Testando as alteracoes.
 
-Testando mais uma alteracao.
+Testando mais uma alteracao. 
+
+Testando editar pelo site.
